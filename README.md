@@ -1,3 +1,5 @@
+# Practicing Vue.js for a new project at the company
+
 # expense-tracker
 
 This template should help get you started developing with Vue 3 in Vite.
